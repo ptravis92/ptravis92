@@ -16,8 +16,7 @@ HTML, CSS, Javascript, jQuery, Angular, TypeScript, C#, .NET, Microsoft SQL Serv
 
 🌐 My Website [thepaultravis.com](https://www.thepaultravis.com)
 
-</> Work GitHub [@ptravisOMES](https://github.com/ptravisOMES) (Go here to see all my green squares.)
-
+<!-- </> Work GitHub [@ptravisOMES](https://github.com/ptravisOMES) (Go here to see all my green squares.) -->
 
 <!--
 **ptravis92/ptravis92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
